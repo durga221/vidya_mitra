@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pillow
+python-dotenv
+google-generativeai
+crewai
+crewai-tools
+litellm
+python-dotenv

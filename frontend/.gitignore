@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+venv/
+backend/__pycache__/ai-tutor.cpython-310.pyc
+backend/__pycache__/bos.cpython-310.pyc
+backend/__pycache__/helper.cpython-310.pyc
+backend/__pycache__/puzzlesolver.cpython-310.pyc
+backend/__pycache__/sosexamprep.cpython-310.pyc
+backend/__pycache__/canvas.cpython-310.pyc
